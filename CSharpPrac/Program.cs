@@ -10,9 +10,7 @@ namespace CSharpPrac
     {
         static void Main(string[] args)
         {
-            Person Per = new Person();
-            Per.Age = 18;
-            Console.ReadLine();
+            
         }
     }
 }

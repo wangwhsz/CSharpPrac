@@ -1,0 +1,6 @@
+C:\Users\WangzyaaaA\Desktop\CSharpPrac\Prac_01\bin\Debug\Prac_01.exe.config
+C:\Users\WangzyaaaA\Desktop\CSharpPrac\Prac_01\bin\Debug\Prac_01.exe
+C:\Users\WangzyaaaA\Desktop\CSharpPrac\Prac_01\bin\Debug\Prac_01.pdb
+C:\Users\WangzyaaaA\Desktop\CSharpPrac\Prac_01\obj\Debug\Prac_01.csproj.CoreCompileInputs.cache
+C:\Users\WangzyaaaA\Desktop\CSharpPrac\Prac_01\obj\Debug\Prac_01.exe
+C:\Users\WangzyaaaA\Desktop\CSharpPrac\Prac_01\obj\Debug\Prac_01.pdb

@@ -1,6 +1,0 @@
-C:\Users\WangzyaaaA\Desktop\CSharpPrac\CSharpPrac\bin\Debug\CSharpPrac.exe.config
-C:\Users\WangzyaaaA\Desktop\CSharpPrac\CSharpPrac\bin\Debug\CSharpPrac.exe
-C:\Users\WangzyaaaA\Desktop\CSharpPrac\CSharpPrac\bin\Debug\CSharpPrac.pdb
-C:\Users\WangzyaaaA\Desktop\CSharpPrac\CSharpPrac\obj\Debug\CSharpPrac.csproj.CoreCompileInputs.cache
-C:\Users\WangzyaaaA\Desktop\CSharpPrac\CSharpPrac\obj\Debug\CSharpPrac.exe
-C:\Users\WangzyaaaA\Desktop\CSharpPrac\CSharpPrac\obj\Debug\CSharpPrac.pdb
